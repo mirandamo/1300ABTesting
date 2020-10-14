@@ -1,6 +1,11 @@
 /* Feel free to modify anything in this file.*/
-html body {
-	background-color: #ecedd5;
+
+.bg-yellow {
+  background-color: bisque;
+}
+
+.bg-blue {
+  background-color: lightblue;
 }
 
 header {
